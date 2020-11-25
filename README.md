@@ -1,2 +1,0 @@
-# pruebaPHP
-Pruebas de clase
