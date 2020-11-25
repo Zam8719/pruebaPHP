@@ -75,3 +75,5 @@
     class Lagarto extends Animal{
         private $engulle;
     }
+
+    $fake = true;
